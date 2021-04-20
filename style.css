@@ -1,7 +1,26 @@
 html, body {
   margin: 0;
   padding: 0;
+  background-color: #F3F1FF;
+  font-family:
 }
+
+h1 {
+  text-align: center;
+  padding: 10px;
+  color: #645256;
+  font-family:
+}
+
+p {
+  text-align: center;
+  padding: 1px;
+  color: #645256;
+}
+
 canvas {
   display: block;
+  margin: auto;
+  border-style: none;
+
 }
